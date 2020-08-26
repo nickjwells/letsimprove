@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build-css": "tailwind build src/style.css -o dist/style.css",
-    "purge-css": "purgecss --css dist/css/style.css --content dist/*.html --output prod/style.css",
+    "purge-css": "@fullhuman/postcss-purgecss --css dist/css/tailwind.css --content dist/*.html --output public/tailwind.css",
     "build": "postcss ./src/style.css -o ./public/tailwind.css"
   },
   "keywords": [],

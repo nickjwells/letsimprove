@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129.686" height="99.634" viewBox="0 0 129.686 99.634">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#007ce0;opacity:.1}.prefix__cls-3{fill:#48c020;stroke:#fff;stroke-width:1.5px}.prefix__cls-4{fill:#fff}.prefix__cls-5{stroke:none}.prefix__cls-6{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__Group_14122" data-name="Group 14122" transform="translate(-881.592 -4373)">
+        <path id="prefix__Path_5940" d="M87.753 14.309c-8.314-.288-16.232-2.972-23.793-5.909S48.91 2.211 40.79.654C35.571-.347 29.6-.488 25.4 2.311c-4.048 2.7-5.355 7.34-6.058 11.654-.529 3.245-.84 6.661.609 9.7 1.007 2.109 2.794 3.882 4.028 5.9 4.3 7.031 1.26 15.7-3.4 22.562-2.184 3.219-4.721 6.294-6.408 9.718S11.709 69.2 13.185 72.7c1.462 3.468 4.947 6.068 8.722 7.9 7.668 3.719 16.7 4.783 25.513 5.386 19.5 1.333 39.111.757 58.666.177a172.012 172.012 0 0 0 21.625-1.551c3.954-.62 8.035-1.607 10.906-3.982a9.133 9.133 0 0 0 2.1-11.931c-4.1-6.357-15.415-7.936-18.281-14.759-1.575-3.756.042-7.939 2.333-11.421 4.912-7.472 13.145-14.028 13.579-22.568.3-5.865-3.661-11.74-9.781-14.516-6.414-2.908-15.31-2.542-20.04 2.272-4.869 4.949-13.432 6.858-20.774 6.602z" class="prefix__cls-1" data-name="Path 5940" transform="translate(869.188 4373.001)"/>
+        <ellipse id="prefix__Ellipse_1138" cx="57.419" cy="5.282" class="prefix__cls-1" data-name="Ellipse 1138" rx="57.419" ry="5.282" transform="translate(890.641 4462.07)"/>
+        <g id="prefix__Group_14119" data-name="Group 14119">
+            <rect id="prefix__Rectangle_2647" width="109" height="52" data-name="Rectangle 2647" rx="5" transform="translate(892 4397)" style="fill:#007ce0"/>
+            <g id="prefix__Rectangle_2631" class="prefix__cls-3" data-name="Rectangle 2631" transform="translate(914.853 4405.746)">
+                <rect width="7.207" height="7.207" class="prefix__cls-5" rx="1.444"/>
+                <rect width="8.707" height="8.707" x="-.75" y="-.75" class="prefix__cls-6" rx="2.194"/>
+            </g>
+            <g id="prefix__Rectangle_2646" class="prefix__cls-3" data-name="Rectangle 2646" transform="translate(900.827 4433.955)">
+                <rect width="7.207" height="7.207" class="prefix__cls-5" rx="1.444"/>
+                <rect width="8.707" height="8.707" x="-.75" y="-.75" class="prefix__cls-6" rx="2.194"/>
+            </g>
+            <g id="prefix__Group_14118" data-name="Group 14118">
+                <rect id="prefix__Rectangle_2630" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2630" rx="1.444" transform="translate(900.827 4405.746)"/>
+                <rect id="prefix__Rectangle_2632" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2632" rx="1.444" transform="translate(928.879 4405.746)"/>
+                <rect id="prefix__Rectangle_2633" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2633" rx="1.444" transform="translate(942.905 4405.746)"/>
+                <rect id="prefix__Rectangle_2634" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2634" rx="1.444" transform="translate(956.931 4405.746)"/>
+                <rect id="prefix__Rectangle_2635" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2635" rx="1.444" transform="translate(970.957 4405.746)"/>
+                <rect id="prefix__Rectangle_2636" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2636" rx="1.444" transform="translate(984.983 4405.746)"/>
+                <rect id="prefix__Rectangle_2637" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2637" rx="1.444" transform="translate(900.827 4419.955)"/>
+                <rect id="prefix__Rectangle_2638" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2638" rx="1.444" transform="translate(914.853 4419.955)"/>
+                <rect id="prefix__Rectangle_2645" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2645" rx="1.444" transform="translate(914.853 4433.955)"/>
+                <rect id="prefix__Rectangle_2639" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2639" rx="1.444" transform="translate(928.879 4419.955)"/>
+                <rect id="prefix__Rectangle_2640" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2640" rx="1.444" transform="translate(942.905 4419.955)"/>
+                <rect id="prefix__Rectangle_2641" width="35.405" height="7.207" class="prefix__cls-4" data-name="Rectangle 2641" rx="1.444" transform="translate(928.806 4433.682)"/>
+                <rect id="prefix__Rectangle_2642" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2642" rx="1.444" transform="translate(956.931 4419.955)"/>
+                <rect id="prefix__Rectangle_2643" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2643" rx="1.444" transform="translate(970.957 4419.955)"/>
+                <rect id="prefix__Rectangle_2644" width="7.207" height="7.207" class="prefix__cls-4" data-name="Rectangle 2644" rx="1.444" transform="translate(984.983 4419.955)"/>
+            </g>
+        </g>
+    </g>
+</svg>
