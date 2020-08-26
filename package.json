@@ -4,12 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwind build src/style.css -o dist/style.css"
+    "build-css": "tailwind build src/style.css -o dist/style.css",
+    "purge-css": "purgecss --css dist/css/style.css --content dist/*.html --output prod/style.css",
+    "build": "postcss ./src/style.css -o ./public/tailwind.css"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nick Saraev",
   "license": "ISC",
   "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "autoprefixer": "^9.8.6",
+    "postcss-cli": "^7.1.1",
+    "purgecss": "^2.3.0",
     "tailwindcss": "^1.7.3"
   }
 }
